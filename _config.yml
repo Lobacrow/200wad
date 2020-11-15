@@ -1,6 +1,6 @@
 title: My 200 Words A Day archive
-author: John Doe
-email: 
+author: Brandon Wilson
+email: lobacrow@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   My archive of writings from 200 Words A Day.
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -10,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: John Doe
+  name: Brandon Wilson
   tagline: 200 Words A Day archive.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -24,8 +24,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: jasonleowsg
-    github:  jasonleow
+    twitter: Lobacrow
+    github:  Lobacrow
     #linkedIn: jekyll
     #rss: rss
     #dribbble: jekyll
