@@ -1,0 +1,6 @@
+---
+title: "Man boldly take advantage of every amenity on flight to San Antonio"
+created_at: 2020-02-12T20:52:27.000Z
+published_at: 2020-02-24T02:24:31.000Z
+---
+Phoenix, AZ. Remmy Johannsen was leafing through the airline magazine on a Southwest flight from Phoenix, AZ to San Antonio earlier this week when the thought occurred to him to take advantage of every complimentary amenity the airlines had to offer. According to Remmy, "Well you pay a lot for a ticket so I figured I might as well get my money's worth." According to fellow passengers, Remmy was seen using both airplane lavatories, procuring an airline pillow and blanket, stuffing multiple bags of pretzels in his bag, and asking for a whole can of Coke and cup of ice. He used the free WIFI to watch multiple episodes of _Chopped_ on his iPad while keeping his reading light on and fully reclining his seat. One morbidly obese passenger who preferred to remain anonymous stated that his flight was uncomfortable because they ran out of seat belt extenders, and he was irate when he saw Remmy was using one needlessly. An unnamed flight attendant said she had chastened Remmy about excessive use of his call button. Upon exiting the airplane, Remmy was seen inspecting his seat in an unsuccessful attempt at removing the life vest before pilfering multiple Southwest Airlines magazines and air sickness bags.
