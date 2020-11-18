@@ -8,6 +8,8 @@ layout: default
 
 {{ content }}
 
+{% assign publishedlist = site.articles | 
+sort: 'published_at' | reverse  %}
 {%- if site.articles.size > 0 -%}
   <ul class="posts">
     <!-- <li class="posts-labelgroup" id="posts-labelgroup">
@@ -23,7 +25,7 @@ layout: default
       {% endif %}
     </li> -->
 
-    {%- for article in site.articles -%}
+    {%- for article in publishedlist -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ article.url | relative_url }}">
